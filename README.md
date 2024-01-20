@@ -1,5 +1,5 @@
-##dendychallenge
-#Dendy Challegne (list by Kinamania)
+## dendychallenge
+# Dendy Challegne (list by Kinamania)
 * Alladin
 * Batman
 * Batman Returns

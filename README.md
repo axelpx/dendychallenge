@@ -1,4 +1,3 @@
-## dendychallenge
 # Dendy Challegne (list by Kinamania)
 * Alladin
 * Batman
